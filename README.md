@@ -1,4 +1,4 @@
-# Một hướng dẫn để bạn trở thành một thợ lập trình Web ổn
+# Hướng dẫn để bạn trở thành một thợ lập trình Web ổn
 
 Tại sao phải đốt hàng trăm triệu tiền đi học các trường đại học chỉ để ra trường đi làm thợ lập trình Web? React? HTML/CSS/JS? Cái quái gì vậy?
 
